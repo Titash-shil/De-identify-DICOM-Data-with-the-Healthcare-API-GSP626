@@ -13,11 +13,11 @@
 export REGION=
 ``` 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/De-identifying%20DICOM%20Data%20with%20the%20Healthcare%20API/gsp626.sh
+curl -LO raw.githubusercontent.com/Titash-shil/De-identify-DICOM-Data-with-the-Healthcare-API-GSP626/refs/heads/main/qwiklab_explorers_gsp626.sh
 
-sudo chmod +x gsp626.sh
+sudo chmod +x qwiklab_explorers_gsp626.sh
 
-./gsp626.sh
+./qwiklab_explorers_gsp626.sh
 ```
 
 ---
